@@ -30,13 +30,13 @@ UODN产品目前处于内测阶段，内测用户目前支持在控制台对容�
 
 ### 更新镜像
 
-![odn\_docker.jpeg](/images/odn_docker.jpeg)
+![odn\_docker.jpeg]
 
 1.镜像库（UHub）
 
 用户使用UHub产品上传Docker相关镜像到UCloud镜像库，可以选择任意版本镜像安装至ODN容器
 
-![odn\_image\_hub.jpeg](/images/odn_image_hub.jpeg)
+![odn\_image\_hub.jpeg]
 
 2.其他地址
 
@@ -44,4 +44,4 @@ UODN产品目前处于内测阶段，内测用户目前支持在控制台对容�
 
 镜像填写范例：uhub.service.ucloud.cn/{已创建镜像仓库}/{镜像}:tag
 
-![odn\_image\_diy.jpeg](/images/odn_image_diy.jpeg)
+![odn\_image\_diy.jpeg]
