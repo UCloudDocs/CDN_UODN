@@ -1,4 +1,3 @@
-<div class="sidebar_title"> 开放式分发节点 UODN</div>
 
 * [概览](/uodn/README)
 * [产品简介](/uodn/intro)
